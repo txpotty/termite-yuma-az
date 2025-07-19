@@ -1,0 +1,18 @@
+.elementor-283 .elementor-element.elementor-element-3cac2a1{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-283 .elementor-element.elementor-element-3cac2a1:not(.elementor-motion-effects-element-type-background), .elementor-283 .elementor-element.elementor-element-3cac2a1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-accent );}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-283 .elementor-element.elementor-element-6202fc6 .elementor-heading-title{color:var( --e-global-color-ca98b55 );}.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after{border-color:var( --e-global-color-text );}.elementor-widget-icon-list .elementor-icon-list-icon i{color:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-item > .elementor-icon-list-text, .elementor-widget-icon-list .elementor-icon-list-item > a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-icon-list .elementor-icon-list-text{color:var( --e-global-color-secondary );}.elementor-283 .elementor-element.elementor-element-c1ddb6c .elementor-icon-list-icon i{color:#A5FFB1;transition:color 0.3s;}.elementor-283 .elementor-element.elementor-element-c1ddb6c .elementor-icon-list-icon svg{fill:#A5FFB1;transition:fill 0.3s;}.elementor-283 .elementor-element.elementor-element-c1ddb6c{--e-icon-list-icon-size:8px;--icon-vertical-offset:-1px;}.elementor-283 .elementor-element.elementor-element-c1ddb6c .elementor-icon-list-item > .elementor-icon-list-text, .elementor-283 .elementor-element.elementor-element-c1ddb6c .elementor-icon-list-item > a{font-size:13px;font-weight:400;}.elementor-283 .elementor-element.elementor-element-c1ddb6c .elementor-icon-list-text{color:#FFFFFFBF;transition:color 0.3s;}#elementor-popup-modal-283 .dialog-message{width:100vw;height:auto;padding:0px 0px 0px 0px;}#elementor-popup-modal-283{justify-content:center;align-items:flex-end;}#elementor-popup-modal-283 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(max-width:1024px){.elementor-283 .elementor-element.elementor-element-6202fc6{text-align:center;}}@media(max-width:767px){.elementor-283 .elementor-element.elementor-element-3cac2a1{--gap:5px 5px;--row-gap:5px;--column-gap:5px;--padding-top:20px;--padding-bottom:25px;--padding-left:01px;--padding-right:1px;}}/* Start custom CSS for icon-list, class: .elementor-element-c1ddb6c */.elementor-283 .elementor-element.elementor-element-c1ddb6c .elementor-icon-list-icon svg {
+    animation: pulser 1.5s infinite;
+}
+
+@keyframes pulser {
+    0% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 0.7;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}/* End custom CSS */
